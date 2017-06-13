@@ -1,0 +1,17 @@
+2017-06-13 18:10:47,404 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: lcmz:lcmz-01:0.0.1-SNAPSHOT @ E:\mySpace\GitHub\LeCaiMinZhuang\workspace\lcmz-01\pom.xml.
+2017-06-13 18:10:49,301 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lcmz-01/src/main/java
+2017-06-13 18:10:49,304 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lcmz-01/src/main/resources
+2017-06-13 18:10:49,305 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lcmz-01/src/test/java
+2017-06-13 18:10:49,306 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lcmz-01/src/test/resources
+2017-06-13 18:10:49,434 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: lcmz:lcmz-01:0.0.1-SNAPSHOT @ E:\mySpace\GitHub\LeCaiMinZhuang\workspace\lcmz-01\pom.xml.
+2017-06-13 18:10:52,720 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2017-06-13 18:10:53,067 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2017-06-13 18:10:54,359 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: lcmz:lcmz-01:0.0.1-SNAPSHOT @ E:\mySpace\GitHub\LeCaiMinZhuang\workspace\lcmz-01\pom.xml.
+2017-06-13 18:10:54,530 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-13 18:10:54,547 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 18:10:54,550 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-13 18:10:54,559 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 18:10:54,770 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-13 18:10:54,781 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 18:10:54,783 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-13 18:10:54,791 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

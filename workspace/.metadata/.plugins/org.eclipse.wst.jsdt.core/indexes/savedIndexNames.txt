@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+E:\mySpace\GitHub\LeCaiMinZhuang\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3169866802.index
+3086905229.index
+2129687291.index
+792991170.index
+4240066302.index
+3249604980.index
